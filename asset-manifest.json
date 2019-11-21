@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/gsap-transitions/static/css/main.3f6d27bd.chunk.css",
+    "main.js": "/gsap-transitions/static/js/main.520d3878.chunk.js",
+    "main.js.map": "/gsap-transitions/static/js/main.520d3878.chunk.js.map",
+    "runtime-main.js": "/gsap-transitions/static/js/runtime-main.98af11dd.js",
+    "runtime-main.js.map": "/gsap-transitions/static/js/runtime-main.98af11dd.js.map",
+    "static/js/2.a8d4964b.chunk.js": "/gsap-transitions/static/js/2.a8d4964b.chunk.js",
+    "static/js/2.a8d4964b.chunk.js.map": "/gsap-transitions/static/js/2.a8d4964b.chunk.js.map",
+    "index.html": "/gsap-transitions/index.html",
+    "precache-manifest.94c94db497ce0c82934beb0cea4041d6.js": "/gsap-transitions/precache-manifest.94c94db497ce0c82934beb0cea4041d6.js",
+    "service-worker.js": "/gsap-transitions/service-worker.js",
+    "static/css/main.3f6d27bd.chunk.css.map": "/gsap-transitions/static/css/main.3f6d27bd.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.98af11dd.js",
+    "static/js/2.a8d4964b.chunk.js",
+    "static/css/main.3f6d27bd.chunk.css",
+    "static/js/main.520d3878.chunk.js"
+  ]
+}
